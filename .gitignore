@@ -1,0 +1,16 @@
+# bin
+bin
+
+# obj
+obj
+
+# .vs
+.vs
+
+# Debug
+Debug
+
+# img
+*.png
+*.jpg
+*.gif
